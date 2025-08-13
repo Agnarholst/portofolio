@@ -1,0 +1,41 @@
+.form {
+  display: flex;
+  justify-content: center;
+  margin-top: 200px;
+  align-content: center;
+  flex-direction: column;
+  font-family: "Inter";
+  font-size: 22px;
+  width: 1000px;
+}
+
+label {
+  margin-top: 20px;
+  width: 600px;
+}
+
+#send-button {
+  border: none;
+  background-color: #882e2e;
+  color: white;
+  font-size: 22px;
+  font-family: "Inter";
+  margin-top: 15px;
+  width: 190px;
+  height: 60px;
+  border-radius: 30px;
+}
+
+.input-field {
+  background-color: white;
+  height: 50px;
+  font-size: 22px;
+  font-family: "Inter";
+  border-radius: 5px;
+  border: 1px solid black;
+  margin-top: 5px;
+}
+
+#message-field {
+  height: 200px;
+}

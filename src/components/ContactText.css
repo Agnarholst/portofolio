@@ -1,0 +1,26 @@
+.contacttext-container {
+  margin-top: -150px;
+  display: flex;
+  justify-content: center;
+  padding-left: 110px;
+  flex-direction: column;
+  margin-right: 100px;
+}
+
+#contacttext-h2 {
+  font-family: "Inter", sans-serif, monospace;
+  color: #1f2937;
+  font-size: 28px;
+  font-weight: 100;
+  margin-left: 140px;
+  margin-top: -10px;
+  width: 400px;
+}
+
+#contacttext-p {
+  font-family: "Inter", sans-serif, monospace;
+  font-size: 24px;
+  color: #1f2937;
+  margin-left: 140px;
+  line-height: 50px;
+}

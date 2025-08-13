@@ -1,0 +1,32 @@
+#container {
+  margin-top: 100px;
+  margin-right: 500px;
+  margin-left: 500px;
+  display: flex;
+  justify-content: center;
+  padding-left: 110px;
+}
+
+#container h2 {
+  font-family: "Inter", sans-serif, monospace;
+  color: #1f2937;
+}
+
+#heroText p {
+  font-family: "Inter", sans-serif, monospace;
+  white-space: nowrap;
+}
+
+#mainTitle {
+  font-size: 64px;
+  font-family: "Playfair Display", Courier, monospace, serif;
+  color: #1f2937;
+  white-space: nowrap;
+}
+
+#profileImg {
+  height: 25rem;
+  border-radius: 15%;
+  rotate: 8deg;
+  margin-left: 100px;
+}

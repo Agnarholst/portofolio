@@ -1,0 +1,13 @@
+.skills {
+  margin-top: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4rem;
+  justify-content: center;
+  align-items: center;
+}
+
+.skills img {
+  height: 64px;
+  object-fit: contain;
+}

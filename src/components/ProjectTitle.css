@@ -1,0 +1,8 @@
+#project-title {
+  font-size: 54px;
+  display: flex;
+  justify-content: center;
+  margin-top: 150px;
+  font-family: "Playfair Display", Courier, monospace, serif;
+  color: #1f2937;
+}

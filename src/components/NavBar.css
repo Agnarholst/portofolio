@@ -1,0 +1,49 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0px;
+}
+
+.NavBar {
+  border: 0px;
+  padding: 0px;
+  margin: 0px;
+  height: 50px;
+  width: 100%;
+  background-color: #882e2e;
+  display: flex;
+  justify-content: end;
+}
+
+.TheButtons {
+  display: flex;
+  margin-right: 300px;
+}
+
+button,
+a {
+  border: none;
+  background-color: #882e2e;
+  color: #e5e7eb;
+  font-size: 16px;
+  font-family: "Inter";
+  width: 100px;
+}
+
+a {
+  display: flex;
+  align-items: center;
+  text-decoration-line: none;
+}
+
+.btn-hovering:hover {
+  color: white;
+  font-weight: 100;
+}
+
+#logo {
+  margin-right: 450px;
+  white-space: nowrap;
+}

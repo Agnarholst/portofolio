@@ -1,0 +1,35 @@
+.card-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-left: 25px;
+  margin-right: 25px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  gap: 50px;
+}
+
+.card-container .card {
+  border-radius: 20px;
+  height: 506px;
+  width: 338px;
+  /* box-shadow: 0 10px 24px rgba(0, 0, 0, 0.18); */
+}
+
+.card-container h3 {
+  text-align: left;
+  font-family: "Playfair Display", Courier, monospace, serif;
+  color: #1f2937;
+  font-size: 38px;
+  line-height: 2.5;
+  margin: 0px;
+  margin-bottom: -20px;
+}
+
+.card-container p {
+  text-align: left;
+  font-family: "Inter", sans-serif, monospace;
+  color: #1f2937;
+  font-size: 18px;
+  line-height: 2.3;
+}

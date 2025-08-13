@@ -1,0 +1,23 @@
+#project-cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  width: 60%;
+  margin: 0 auto;
+}
+
+#contact-section {
+  display: flex;
+  justify-content: center;
+  width: 60%;
+  margin: 0px auto;
+  margin-bottom: 200px;
+}
+
+#jokequote {
+  display: flex;
+  justify-content: center;
+  width: 60%;
+  margin: 0px auto;
+  margin-bottom: 40px;
+}

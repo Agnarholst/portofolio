@@ -1,0 +1,35 @@
+#aboutme-container {
+  display: flex;
+  align-content: start;
+  flex-direction: column;
+  width: 90%;
+  margin-top: 0;
+  padding-top: 10px;
+}
+
+.container p {
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  width: 100%;
+  text-align: left;
+  font-family: "Inter", sans-serif, monospace;
+  color: #1f2937;
+  font-size: 24px;
+  line-height: 2.5;
+}
+.container #aboutme-title {
+  margin: 0 auto;
+  font-size: 54px;
+  display: flex;
+  margin-top: 100px;
+  font-family: "Playfair Display", Courier, monospace, serif;
+  color: #1f2937;
+  margin-right: 825px;
+  white-space: nowrap;
+}
+
+#skills-title {
+  color: #1f2937;
+  font-family: "Playfair Display", Courier, monospace, serif;
+}
