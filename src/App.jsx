@@ -18,7 +18,7 @@ import SkillsIcon from "./components/SkillsIcons";
 const dwnlBcl = "link goes here";
 
 const cardText = [
-  `Bacheloroppgaven min undersøkte hvordan blokkjede-teknologi kan brukes til å utstede og verifisere utdanningsvitnemål på en sikker og effektiv måte. Prosjektet kombinerte teoretisk forskning med et praktisk proof-of-concept utivklet i et smartkontraktspråket Daml. Last ned her: ${dwnlBcl}`,
+  `Bacheloroppgaven min undersøkte hvordan blokkjede-teknologi kan brukes til å utstede og verifisere utdanningsvitnemål på en sikker og effektiv måte. Prosjektet kombinerte teoretisk forskning med et praktisk proof-of-concept utivklet i et smartkontraktspråket Daml.`,
   "Dette prosjektet er nettsiden du befinner deg på. En demonstrasjon av mine ferdigheter innen moderne webutvikling. Nettsiden er bygget med React og JavaScript, og inneholder dynamiske komponenter, responsivt design og optimalisert bilde- og innholdsstruktur. Den er hostet med Vercel. Layout og design er laget i Figma, med fokus på klar visuell profil og brukervennlighet.",
   "Et interaktivt Sudoku-spill bygget i Vanilla JavaScript med dynamisk generering av brett og en backtracking-algoritme for å sikre gyldige løsninger. Fokuset var på å utvikle noe helt på egenhånd uten hjelpemidler og se om jeg klarte å implementere logikken som inngår i et spill Sudoku. Samt bruke CSS for å lage et minimalistisk design. Her lærte jeg JavaScript, logikkimplementasjon, og DOM-manipulasjon.",
 ];
