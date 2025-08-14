@@ -5,15 +5,23 @@ function ProjectCard(props) {
   props.title;
   props.image;
   props.text;
+  props.image2;
   return (
     <div className="card-container">
-      <div className="card">
-        <img className="card" src={props.image} alt="what" />
-      </div>
+      {props.image && (
+        <div className="card">
+          <img className="card" src={props.image} />
+        </div>
+      )}
       <div>
         <h3>{props.title}</h3>
         <p>{props.text}</p>
       </div>
+      {props.image2 && (
+        <div className="card">
+          <img className="card" src={props.image2} />
+        </div>
+      )}
     </div>
   );
 }

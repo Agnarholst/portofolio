@@ -1,10 +1,10 @@
 .contacttext-container {
-  margin-top: -150px;
+  margin-top: -80px;
   display: flex;
   justify-content: center;
-  padding-left: 110px;
+  padding-left: -50px;
   flex-direction: column;
-  margin-right: 100px;
+  margin-right: 80px;
 }
 
 #contacttext-h2 {
