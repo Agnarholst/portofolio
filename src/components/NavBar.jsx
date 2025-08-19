@@ -12,6 +12,7 @@ function NavBar() {
         <button className="btn-hovering" id="logo">
           Agnar Holst
         </button>
+        <div className="spacer"></div>
         <a href="#project-title" className="btn-hovering" onClick={scrollTo}>
           Prosjekter
         </a>

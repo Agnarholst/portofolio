@@ -7,19 +7,31 @@ body {
 }
 
 .NavBar {
-  border: 0px;
-  padding: 0px;
-  margin: 0px;
   height: 50px;
   width: 100%;
   background-color: #882e2e;
   display: flex;
-  justify-content: end;
+  justify-content: space-between;
+  padding: 0 1rem;
 }
 
+#logo {
+  font-family: "Inter", serif;
+  /* margin-right: 450px; */
+  white-space: nowrap;
+}
+
+.spacer {
+  display: flex;
+  flex: 1;
+  max-width: 400px;
+}
 .TheButtons {
   display: flex;
-  margin-right: 300px;
+  flex: 1 1 auto;
+  justify-content: center;
+  gap: 1rem;
+  white-space: nowrap;
 }
 
 button,
@@ -29,13 +41,14 @@ a {
   color: #e5e7eb;
   font-size: 16px;
   font-family: "Inter";
-  width: 100px;
+  padding: 0.25rem 0.5rem;
 }
 
 a {
   display: flex;
   align-items: center;
   text-decoration-line: none;
+  
 }
 
 .btn-hovering:hover {
@@ -43,7 +56,3 @@ a {
   font-weight: 100;
 }
 
-#logo {
-  margin-right: 450px;
-  white-space: nowrap;
-}
