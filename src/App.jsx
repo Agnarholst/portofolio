@@ -9,6 +9,7 @@ import Aboutme from "./components/Aboutme";
 import ContactText from "./components/ContactText";
 import ContactForm from "./components/ContactForm";
 import Footer from "./components/Footer";
+import MovingLogos from "./components/MovingLogos";
 // Images
 import cardBachelor from "./assets/bacheloroppgave.png";
 import cardPortofolio from "./assets/portofolio.png";
@@ -49,7 +50,7 @@ function App() {
         />
         <Aboutme />
       </div>
-      <SkillsIcon />
+      <MovingLogos />
       <div id="contact-section">
         <ContactText />
         <ContactForm />
