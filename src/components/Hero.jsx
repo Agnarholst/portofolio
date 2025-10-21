@@ -6,7 +6,7 @@ function Hero() {
     <div id="container">
       <div>
         <h1 id="mainTitle">Agnar Holst</h1>
-        <h2>FULLSTACK UTVIKLER</h2>
+        <h2> Database Rådgiver hos Statnett?</h2>
         <div id="heroText">
           <p>
             Jeg trives like godt med piksler som med <b>queries</b>.

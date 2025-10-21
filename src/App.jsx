@@ -10,6 +10,7 @@ import ContactText from "./components/ContactText";
 import ContactForm from "./components/ContactForm";
 import Footer from "./components/Footer";
 import MovingLogos from "./components/MovingLogos";
+import MoreProjects from "./components/MoreProjects";
 // Images
 import cardBachelor from "./assets/bacheloroppgave.png";
 import cardPortofolio from "./assets/portofolio.png";
